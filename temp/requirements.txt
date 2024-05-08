@@ -1,8 +1,8 @@
-scikit-learn
-scikit-image
-unzip
-joblib
-pandas
-matplotlib
-natsort
-streamlit
+scikit-learn==1.4.2
+scikit-image==0.23.2
+unzip==1.0.0
+joblib==1.4.2
+pandas==2.2.2 
+matplotlib==3.8.4
+natsort==8.4.0
+streamlit==1.34.0
